@@ -5,6 +5,8 @@ production.json
 .media/
 .static/
 
+# Jupyter
+jupyter/
 
 # Created by https://www.gitignore.io/api/macos,linux,django,python,virtualenv,pycharm+all
 # Edit at https://www.gitignore.io/?templates=macos,linux,django,python,virtualenv,pycharm+all
